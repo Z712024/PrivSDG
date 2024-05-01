@@ -12,7 +12,7 @@ You can find the open-source code for baselines:
 
 **PrivBayes, PrivBayes+PGM, MST, MWEM+PGM, AIM**: https://github.com/ryan112358/private-pgm
 
-**RAP**: github.com/amazon-research/relaxed-adaptive-projection
+**RAP**: https://github.com/amazon-research/relaxed-adaptive-projection
 
 **GEM**: https://github.com/terranceliu/iterative-dp
 
